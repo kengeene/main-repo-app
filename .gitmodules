@@ -1,0 +1,6 @@
+[submodule "npm_test-package-app"]
+	path = npm_test-package-app
+	url = https://github.com/kengeene/npm_test-package-app.git
+[submodule "test-consumer-app"]
+	path = test-consumer-app
+	url = https://github.com/kengeene/test-consumer-app.git
