@@ -1,8 +1,8 @@
-[submodule "npm_test-package-app"]
-	path = npm_test-package-app
+[submodule "./npm_test-package-app"]
+	path = ./npm_test-package-app
 	url = https://github.com/kengeene/npm_test-package-app.git
-	branch = main
-[submodule "test-consumer-app"]
-	path = test-consumer-app
+	branch = dev
+[submodule "./test-consumer-app"]
+	path = ./test-consumer-app
 	url = https://github.com/kengeene/test-consumer-app.git
-	branch = main
+	branch = dev
